@@ -4,8 +4,6 @@
 
 13+ years building web platforms from the ground up. Currently Lead Software Engineer on an AI-powered collaborative SaaS: multiple React/Next.js apps and a shared component library in a single monorepo, on top of 15 Cloudflare Workers microservices. I ship production AI features (RAG, vector search, LLM routing) by day and build local-first AI agents by night.
 
-📍 Houston, TX · U.S. work authorization · open to Senior Frontend / Frontend Architect / AI Engineering roles
-
 ## Featured projects
 
 **[llamail](https://github.com/sviat-barbutsa/llamail)** — Your private email agent, running locally. Control Gmail from Telegram: LLM-as-router intent classification, hybrid RAG search (ChromaDB + SQLite FTS5), drafting, campaigns, scheduled sends. Runs on consumer hardware — zero cloud, zero monthly bills.
