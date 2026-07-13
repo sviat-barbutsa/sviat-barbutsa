@@ -20,7 +20,6 @@
 - [LLM as Router: Intent Classification for a Local Telegram Email Agent](https://dev.to/sviat_barbutsa/llm-as-router-intent-classification-for-a-local-telegram-email-agent-23l6) — dev.to
 - [How Search and Ask Work: Local Hybrid RAG with ChromaDB + SQLite FTS5](https://dev.to/sviat_barbutsa/how-search-and-ask-work-local-hybrid-rag-with-chromadb-sqlite-fts5-226c) — dev.to
 - [From Inbox to Character: Building a Private Local AI Email Agent](https://dev.to/sviat_barbutsa/from-inbox-to-character-building-a-private-local-ai-email-agent-c3k) — dev.to
-- 
 
 ## Stack
 
