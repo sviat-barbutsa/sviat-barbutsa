@@ -15,7 +15,7 @@
 ## Writing
 
 - [How to Handle Small Context Window Limits in RAG Systems](https://www.freecodecamp.org/news/how-to-handle-small-context-window-limits-in-rag-systems/) — freeCodeCamp
-- [How I nearly doubled my premium model capacity without paying more]([https://medium.com/@sviatoslavbarbutsa/the-3-tier-memory-system-that-cut-my-ai-coding-context-by-96-469165635deb](https://medium.com/@sviatoslavbarbutsa/how-i-nearly-doubled-my-premium-model-capacity-without-paying-more-360da7494e29) — Medium
+- [How I nearly doubled my premium model capacity without paying more](https://medium.com/@sviatoslavbarbutsa/how-i-nearly-doubled-my-premium-model-capacity-without-paying-more-360da7494e29) — Medium
 - [The 3-Tier Memory System That Cut My AI Coding Context by 96%](https://medium.com/@sviatoslavbarbutsa/the-3-tier-memory-system-that-cut-my-ai-coding-context-by-96-469165635deb) — Medium
 - [LLM as Router: Intent Classification for a Local Telegram Email Agent](https://dev.to/sviat_barbutsa/llm-as-router-intent-classification-for-a-local-telegram-email-agent-23l6) — dev.to
 - [How Search and Ask Work: Local Hybrid RAG with ChromaDB + SQLite FTS5](https://dev.to/sviat_barbutsa/how-search-and-ask-work-local-hybrid-rag-with-chromadb-sqlite-fts5-226c) — dev.to
