@@ -14,8 +14,6 @@
 
 **[small-context-rag-solution](https://github.com/sviat-barbutsa/small-context-rag-solution)** — Python + TypeScript patterns for RAG under small context windows: summaries, raw chunks, and context-budget tracing. Companion code to my freeCodeCamp article.
 
-**[ai-memory-tiers-demo](https://github.com/sviat-barbutsa/ai-memory-tiers-demo)** — A dependency-free demo of a 3-tier memory system for AI coding agents that cut my coding context by 96%. Companion code to my Medium article.
-
 ## Writing
 
 - [How to Handle Small Context Window Limits in RAG Systems](https://www.freecodecamp.org/news/how-to-handle-small-context-window-limits-in-rag-systems/) — freeCodeCamp
