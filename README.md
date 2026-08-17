@@ -6,6 +6,10 @@
 
 ## Featured projects
 
+**[barbutsa.com](https://github.com/sviat-barbutsa/barbutsa.com)** — Source and live implementation of my Astro and TypeScript portfolio, with architecture checks, generated CSP, accessibility and performance work, 100 lighthouse, and full-sitemap browser tests. **[View the live website](https://barbutsa.com/).**
+
+**[Zharwing Memory](https://github.com/zharwing/memory)** — Local-first, project-scoped memory for AI coding agents. A TypeScript monorepo with a React/Tauri interface, daemon, CLI, MCP integration, privacy boundaries, documentation, old docs imports with automatic ai relationship, and extensive automated testing.
+
 **[llamail](https://github.com/sviat-barbutsa/llamail)** — Your private email agent, running locally. Control Gmail from Telegram: LLM-as-router intent classification, hybrid RAG search (ChromaDB + SQLite FTS5), drafting, campaigns, scheduled sends. Runs on consumer hardware — zero cloud, zero monthly bills.
 
 **[small-context-rag-solution](https://github.com/sviat-barbutsa/small-context-rag-solution)** — Python + TypeScript patterns for RAG under small context windows: summaries, raw chunks, and context-budget tracing. Companion code to my freeCodeCamp article.
