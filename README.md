@@ -2,10 +2,10 @@
 
 **Senior Frontend Engineer / Frontend Architect | Full-Stack delivery** — React · Next.js · TypeScript · Node · Applied AI
 
-About career: 13+ years of professional software engineering, primarily focused on the frontend. I've architected and implemented multiple web platforms from scratch, led engineering teams, and integrated frontier technology into projects whenever it drives real business value. Programming is both my career and my hobby. 
-About side-projects: I do open-source tools for real-world problems (mostly things I rely on myself daily) and write technical articles on freeCodeCamp, Dev.to, and Medium.
-About self-improvements: I hold multiple professional web certifications alongside DeepLearning.ai specializations. 
-About AI: I've been working with AI since it appeared on the market - ranging from custom ComfyUI workflows to my own local-first AI agents powered by llama.cpp etc., - and I help teams integrate AI into their daily workflows and products.
+- About career: 13+ years of professional software engineering, primarily focused on the frontend. I've architected and implemented multiple web platforms from scratch, led engineering teams, and integrated frontier technology into projects whenever it drives real business value. Programming is both my career and my hobby. 
+- About side-projects: I do open-source tools for real-world problems (mostly things I rely on myself daily) and write technical articles on freeCodeCamp, Dev.to, and Medium.
+- About self-improvements: I hold multiple professional web certifications alongside DeepLearning.ai specializations. 
+- About AI: I've been working with AI since it appeared on the market - ranging from custom ComfyUI workflows to my own local-first AI agents powered by llama.cpp etc., - and I help teams integrate AI into their daily workflows and products.
 
 ## Featured projects
 
