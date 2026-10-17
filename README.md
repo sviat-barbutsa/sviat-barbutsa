@@ -1,4 +1,4 @@
-# Sviat Barbutsa
+# Sviat (Sviatoslav) Barbutsa
 
 **Senior Frontend Engineer / Frontend Architect | Full-Stack delivery** — React · Next.js · TypeScript · Node · Applied AI
 
