@@ -1,16 +1,18 @@
 # Sviat Barbutsa
 
-**Senior Frontend Engineer / Frontend Architect** — React · Next.js · TypeScript · AI Integration
+**Senior Frontend Engineer / Frontend Architect | Full-Stack delivery** — React · Next.js · TypeScript · Node · Applied AI
 
-13+ years building web platforms from the ground up. Currently Lead Software Engineer on an AI-powered collaborative SaaS: multiple React/Next.js apps and a shared component library in a single monorepo, on top of 15 Cloudflare Workers microservices. I do frontend systems and ship production AI features (RAG, vector search, LLM routing) by day and build local-first AI agents by night.
+13+ years of professional software engineering, primarily focused on the frontend. I've architected and implemented multiple web platforms from scratch, led engineering teams, and integrated frontier technology into projects whenever it drives real business value. Programming is both my career and my hobby. 
+I do open-source tools for real-world problems (mostly things I rely on myself daily) and write technical articles on freeCodeCamp, Dev.to, and Medium.
+I hold multiple professional web certifications alongside DeepLearning.ai specializations. I've been working with AI since it appeared on the market - ranging from custom ComfyUI workflows to my own local-first AI agents powered by llama.cpp etc., - and I help teams integrate AI into their daily workflows and products.
 
 ## Featured projects
 
 **[barbutsa.com](https://github.com/sviat-barbutsa/barbutsa.com)** — Source and live implementation of my Astro and TypeScript portfolio, with architecture checks, generated CSP, accessibility and performance work, 100 lighthouse, and full-sitemap browser tests. **[View the live website](https://barbutsa.com/).**
 
-**[Zharwing Memory](https://github.com/zharwing/memory)** — Local-first, project-scoped memory for AI coding agents. A TypeScript monorepo with a React/Tauri interface, daemon, CLI, MCP integration, privacy boundaries, documentation, old docs imports with automatic ai relationship, and extensive automated testing.
+**[Zharwing Memory](https://github.com/zharwing/memory)** — Local-first, project-scoped memory for AI coding agents. A TypeScript monorepo with a React/Tauri interface, daemon, CLI, MCP integration, privacy boundaries, documentation, old docs imports with automatic ai relationship.
 
-**[llamail](https://github.com/sviat-barbutsa/llamail)** — Your private email agent, running locally. Control Gmail from Telegram: LLM-as-router intent classification, hybrid RAG search (ChromaDB + SQLite FTS5), drafting, campaigns, scheduled sends. Runs on consumer hardware — zero cloud, zero monthly bills.
+**[llamail](https://github.com/sviat-barbutsa/llamail)** — Your private agent, running locally. Control Gmail from Telegram: LLM-as-router intent classification, hybrid RAG search (ChromaDB + SQLite FTS5), drafting, campaigns, scheduled sends. Runs on consumer hardware - zero cloud, zero monthly bills (it has it's own personality and can talk with you like you favorite character :) ).
 
 **[small-context-rag-solution](https://github.com/sviat-barbutsa/small-context-rag-solution)** — Python + TypeScript patterns for RAG under small context windows: summaries, raw chunks, and context-budget tracing. Companion code to my freeCodeCamp article.
 
